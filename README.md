@@ -15,3 +15,4 @@ A collection of end-to-end Machine Learning, Natural Language Processing, Risk A
 | [`telecom_churn_case_study/`](telecom_churn_case_study/) | Churn Prediction | Logistic Regression, Random Forest, XGBoost, PCA |
 | [`survival_analysis/`](survival_analysis/) | Time-to-Event Modeling | Kaplan-Meier, Cox Proportional Hazards |
 | [`portfolio_web/`](portfolio_web/) | Web Developer Portfolio | React, Node, CSS |
+
